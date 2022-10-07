@@ -1,13 +1,13 @@
 {
     "wait": "Wait a minute, data is being processed!",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "Iv": "Ngasi Link yang bener dong anj",
+        "api": "Maaf bang ada kesalahan"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyGrup": "ini bukan grup bang",
     "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
     "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "BotAdmin": "ga nyadar apa gw bukan admin",
+    "OnlyOwner": "lu siapa komen ini khusus babang DUDUL PORKE/DILZPX",
+    "OnlyPrem": "yahaha member gratisan"
 }
